@@ -21,6 +21,9 @@ function App() {
       <div>
         <AddTranscations />
       </div>
+      <div>
+        <BankList />
+      </div>
     </div>
   );
 }

@@ -69,8 +69,17 @@
   border: 2px solid green;
   width: 100px;
   height: 40px;
+  cursor: pointer;
 }
 .AddBtn:hover {
   transition-duration: 0.25s;
   background-color: rgb(55, 184, 55);
+}
+.BankList {
+  background-color: white;
+  color: grey;
+}
+.BankList {
+  .DateList {
+  }
 }
